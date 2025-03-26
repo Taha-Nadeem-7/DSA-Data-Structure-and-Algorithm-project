@@ -1,2 +1,2 @@
 # DSA-Data-Structure-and-Algorithm-project
-this is my DSA(Data Structure and Algorithm) Project in which we had to make a project which used concept of DSA and using data structures like stack, queue and Arraylists and Array and using Algoritm like bubble sort to sort the scores . It was a Group project of Three member. So our group decided to make a turn based Rock-Paper-Scissors gae. 
+This is my DSA (Data Structure and Algorithm) project, for which we were tasked with creating a project that utilizes DSA concepts. Our project involved using data structures such as stacks, queues, and Array Lists, as well as algorithms like bubble sort to sort scores. It was a group project consisting of three members. Our team decided to develop a turn-based Rock-Paper-Scissors game.
